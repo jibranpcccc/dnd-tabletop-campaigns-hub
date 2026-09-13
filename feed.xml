@@ -4,10 +4,17 @@
     <title>D&amp;D 5e &amp; Tabletop RPG Campaigns Hub</title>
     <link>https://dnd-tabletop-campaigns-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 06:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:30:46 GMT</lastBuildDate>
     <atom:link href="https://dnd-tabletop-campaigns-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: Go Language Official Discord (Discord)</title>
+      <link>https://discord.gg/golang</link>
+      <guid isPermaLink="false">https://dnd-tabletop-campaigns-hub.vercel.app/#dnd-tabletop-campaigns-hub-discord-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:30:46 GMT</pubDate>
+      <description>Newly verified community added to D&amp;D 5e &amp; Tabletop RPG Campaigns Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
+    </item>
+<item>
       <title>D&amp;D 5e &amp; Tabletop RPG Campaigns Hub Initial Release</title>
       <link>https://dnd-tabletop-campaigns-hub.vercel.app/</link>
       <pubDate>Tue, 08 Sep 2026 06:47:25 GMT</pubDate>
