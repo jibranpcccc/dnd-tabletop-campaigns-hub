@@ -1,16 +1,16 @@
 [
   {
     "id": "dnd-tabletop-campaigns-hub-reddit-20260915-1",
-    "title": "r/webdev Builders Hub",
+    "title": "r/DnD Tabletop Roleplayers Guild",
     "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,200,000+ members",
-    "description": "A community dedicated to all things web development, client and server-side architectures, and UI/UX design.",
-    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "category": "Tabletop RPGs",
+    "memberCount": "3,400,000+ members",
+    "description": "The largest tabletop roleplaying community, featuring Dungeon Master advice, homebrew rules, character builds, and battlemap resources.",
+    "joinUrl": "https://www.reddit.com/r/DnD/",
     "tags": [
-      "webdev",
-      "fullstack",
-      "frontend",
+      "dnd",
+      "tabletop",
+      "rpg",
       "reddit"
     ],
     "verified": true,
